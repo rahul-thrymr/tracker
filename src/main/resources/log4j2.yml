@@ -1,0 +1,31 @@
+Configuration:
+  monitorInterval: 60
+  Properties:
+    Property:
+      name: filename
+      value: "logs"
+
+  Appenders:
+    Console:
+      name: STDOUT
+      target: SYSTEM_OUT
+      PatternLayout:
+        pattern: "[%-5level] %d{yyyy-MM-dd HH:mm:ss.SSS} [%t] %c{1} - %msg%n"
+
+    File:
+      name: LOGFILE
+      fileName: ${filename}/properties.log
+      PatternLayout:
+        pattern: "[%-5level] %d{yyyy-MM-dd HH:mm:ss.SSS} [%t] %c{1} - %msg%n"
+
+  Loggers:
+    Logger:
+      name: com.handler.tracker
+      level: debug
+      AppenderRef:
+       - ref: LOGFILE
+
+    Root:
+      level: debug
+      AppenderRef:
+       - ref: STDOUT

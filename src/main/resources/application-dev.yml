@@ -1,0 +1,29 @@
+spring:
+  output:
+    ansi:
+      enabled: ALWAYS
+  main:
+    banner-mode: "OFF"
+  jpa:
+    database: POSTGRESQL
+  datasource:
+    platform: postgres
+    driver-class-name: "org.postgresql.Driver"
+    url: jdbc:postgresql://localhost:5432/Test
+    username: ${POSTGRES_DB_USER}
+    password: ${POSTGRES_DB_PASSWORD}
+  data:
+    solr:
+      host: http://localhost:8983/my_solr
+
+# Logging File size
+logging:
+  file:
+    max-size: 50KB
+
+server:
+  port: 8087
+
+app:
+  jwtSecret: JWTSuperSecretKey
+  jwtExpirationInMs: 604800000
