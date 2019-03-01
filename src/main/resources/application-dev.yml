@@ -6,12 +6,27 @@ spring:
     banner-mode: "OFF"
   jpa:
     database: POSTGRESQL
+    properties:
+      hibernate:
+        temp:
+          use_jdbc_metadata_defaults: false
+    hibernate:
+      ddl-auto: update
   datasource:
     platform: postgres
     driver-class-name: "org.postgresql.Driver"
     url: jdbc:postgresql://localhost:5432/Test
     username: ${POSTGRES_DB_USER}
     password: ${POSTGRES_DB_PASSWORD}
+#     username: postgres
+#     password: test
+ # Keep the connection alive if idle for a long time (needed in production)
+    hikari:
+      maximum-pool-size: 15
+      minimum-idle: 5
+    dbcp2:
+      sendException-while-idle: true
+      validation-query: SELECT 1
   data:
     solr:
       host: http://localhost:8983/my_solr
@@ -21,9 +36,11 @@ logging:
   file:
     max-size: 50KB
 
+# Change Server
 server:
   port: 8087
 
+#Jwt token
 app:
   jwtSecret: JWTSuperSecretKey
   jwtExpirationInMs: 604800000

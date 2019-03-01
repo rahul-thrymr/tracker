@@ -8,12 +8,12 @@ import lombok.Setter;
 @Setter
 @NoArgsConstructor
 public class ApiResponse {
-  private int id;
+  private boolean status;
   private String message;
   private Object payLoad;
 
-  public ApiResponse(int id, String message, Object payLoad) {
-    this.id = id;
+  public ApiResponse(boolean status, String message, Object payLoad) {
+    this.status = status;
     this.message = message;
     this.payLoad = payLoad;
   }

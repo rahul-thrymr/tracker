@@ -339,3 +339,203 @@
 [DEBUG] 2019-02-28 19:50:08.846 [restartedMain] AuthenticationFilter - Filter 'authenticationFilter' configured for use
 [INFO ] 2019-02-28 19:50:08.871 [restartedMain] PdfServiceImpl - resource
 [INFO ] 2019-02-28 19:50:09.950 [restartedMain] TrackerApplication - Started TrackerApplication in 12.398 seconds (JVM running for 13.454)
+[INFO ] 2019-03-01 12:42:12.746 [restartedMain] TrackerApplication - Starting TrackerApplication on T-C-RahulP with PID 12179 (/home/thrymr/projects/tracker/target/classes started by thrymr in /home/thrymr/projects/tracker)
+[DEBUG] 2019-03-01 12:42:12.753 [restartedMain] TrackerApplication - Running with Spring Boot v2.1.1.RELEASE, Spring v5.1.3.RELEASE
+[INFO ] 2019-03-01 12:42:12.754 [restartedMain] TrackerApplication - The following profiles are active: dev
+[INFO ] 2019-03-01 12:46:36.924 [restartedMain] TrackerApplication - Starting TrackerApplication on T-C-RahulP with PID 12437 (/home/thrymr/projects/tracker/target/classes started by thrymr in /home/thrymr/projects/tracker)
+[DEBUG] 2019-03-01 12:46:36.925 [restartedMain] TrackerApplication - Running with Spring Boot v2.1.1.RELEASE, Spring v5.1.3.RELEASE
+[INFO ] 2019-03-01 12:46:36.925 [restartedMain] TrackerApplication - The following profiles are active: dev
+[DEBUG] 2019-03-01 12:46:41.908 [restartedMain] AuthenticationFilter - Filter 'authenticationFilter' configured for use
+[INFO ] 2019-03-01 12:46:41.972 [restartedMain] PdfServiceImpl - resource
+[INFO ] 2019-03-01 12:56:23.311 [restartedMain] TrackerApplication - Starting TrackerApplication on T-C-RahulP with PID 12786 (/home/thrymr/projects/tracker/target/classes started by thrymr in /home/thrymr/projects/tracker)
+[DEBUG] 2019-03-01 12:56:23.311 [restartedMain] TrackerApplication - Running with Spring Boot v2.1.1.RELEASE, Spring v5.1.3.RELEASE
+[INFO ] 2019-03-01 12:56:23.311 [restartedMain] TrackerApplication - The following profiles are active: dev
+[INFO ] 2019-03-01 12:57:14.811 [restartedMain] TrackerApplication - Starting TrackerApplication on T-C-RahulP with PID 12873 (/home/thrymr/projects/tracker/target/classes started by thrymr in /home/thrymr/projects/tracker)
+[DEBUG] 2019-03-01 12:57:14.811 [restartedMain] TrackerApplication - Running with Spring Boot v2.1.1.RELEASE, Spring v5.1.3.RELEASE
+[INFO ] 2019-03-01 12:57:14.812 [restartedMain] TrackerApplication - The following profiles are active: dev
+[INFO ] 2019-03-01 12:58:03.454 [restartedMain] TrackerApplication - Starting TrackerApplication on T-C-RahulP with PID 12981 (/home/thrymr/projects/tracker/target/classes started by thrymr in /home/thrymr/projects/tracker)
+[DEBUG] 2019-03-01 12:58:03.455 [restartedMain] TrackerApplication - Running with Spring Boot v2.1.1.RELEASE, Spring v5.1.3.RELEASE
+[INFO ] 2019-03-01 12:58:03.459 [restartedMain] TrackerApplication - The following profiles are active: dev
+[DEBUG] 2019-03-01 12:58:07.670 [restartedMain] AuthenticationFilter - Filter 'authenticationFilter' configured for use
+[INFO ] 2019-03-01 12:58:07.848 [restartedMain] PdfServiceImpl - resource
+[INFO ] 2019-03-01 13:00:19.752 [restartedMain] TrackerApplication - Starting TrackerApplication on T-C-RahulP with PID 13176 (/home/thrymr/projects/tracker/target/classes started by thrymr in /home/thrymr/projects/tracker)
+[DEBUG] 2019-03-01 13:00:19.753 [restartedMain] TrackerApplication - Running with Spring Boot v2.1.1.RELEASE, Spring v5.1.3.RELEASE
+[INFO ] 2019-03-01 13:00:19.753 [restartedMain] TrackerApplication - The following profiles are active: dev
+[DEBUG] 2019-03-01 13:00:24.702 [restartedMain] AuthenticationFilter - Filter 'authenticationFilter' configured for use
+[INFO ] 2019-03-01 13:00:24.772 [restartedMain] PdfServiceImpl - resource
+[INFO ] 2019-03-01 13:00:26.106 [restartedMain] TrackerApplication - Started TrackerApplication in 6.747 seconds (JVM running for 7.592)
+[INFO ] 2019-03-01 13:58:32.375 [restartedMain] TrackerApplication - Starting TrackerApplication on T-C-RahulP with PID 14954 (/home/thrymr/projects/tracker/target/classes started by thrymr in /home/thrymr/projects/tracker)
+[DEBUG] 2019-03-01 13:58:32.376 [restartedMain] TrackerApplication - Running with Spring Boot v2.1.1.RELEASE, Spring v5.1.3.RELEASE
+[INFO ] 2019-03-01 13:58:32.376 [restartedMain] TrackerApplication - The following profiles are active: dev
+[DEBUG] 2019-03-01 13:58:36.953 [restartedMain] AuthenticationFilter - Filter 'authenticationFilter' configured for use
+[INFO ] 2019-03-01 13:58:37.016 [restartedMain] PdfServiceImpl - resource
+[INFO ] 2019-03-01 13:58:38.299 [restartedMain] TrackerApplication - Started TrackerApplication in 6.359 seconds (JVM running for 7.228)
+[INFO ] 2019-03-01 14:06:50.614 [32mINFO[m [restartedMain] TrackerApplication - Starting TrackerApplication on T-C-RahulP with PID 15375 (/home/thrymr/projects/tracker/target/classes started by thrymr in /home/thrymr/projects/tracker)
+[DEBUG] 2019-03-01 14:06:50.614 [36mDEBUG[m [restartedMain] TrackerApplication - Running with Spring Boot v2.1.1.RELEASE, Spring v5.1.3.RELEASE
+[INFO ] 2019-03-01 14:06:50.615 [32mINFO[m [restartedMain] TrackerApplication - The following profiles are active: dev
+[DEBUG] 2019-03-01 14:06:55.227 [36mDEBUG[m [restartedMain] AuthenticationFilter - Filter 'authenticationFilter' configured for use
+[INFO ] 2019-03-01 14:06:55.284 [32mINFO[m [restartedMain] PdfServiceImpl - resource
+[INFO ] 2019-03-01 14:06:56.488 [32mINFO[m [restartedMain] TrackerApplication - Started TrackerApplication in 6.245 seconds (JVM running for 6.966)
+[32mdisableAnsi=false[m[INFO ] 2019-03-01 14:08:02.871 [restartedMain] TrackerApplication - Starting TrackerApplication on T-C-RahulP with PID 15505 (/home/thrymr/projects/tracker/target/classes started by thrymr in /home/thrymr/projects/tracker)
+[36mdisableAnsi=false[m[DEBUG] 2019-03-01 14:08:02.872 [restartedMain] TrackerApplication - Running with Spring Boot v2.1.1.RELEASE, Spring v5.1.3.RELEASE
+[32mdisableAnsi=false[m[INFO ] 2019-03-01 14:08:02.872 [restartedMain] TrackerApplication - The following profiles are active: dev
+[36mdisableAnsi=false[m[DEBUG] 2019-03-01 14:08:07.462 [restartedMain] AuthenticationFilter - Filter 'authenticationFilter' configured for use
+[32mdisableAnsi=false[m[INFO ] 2019-03-01 14:08:07.531 [restartedMain] PdfServiceImpl - resource
+[32mdisableAnsi=false[m[INFO ] 2019-03-01 14:08:08.845 [restartedMain] TrackerApplication - Started TrackerApplication in 6.35 seconds (JVM running for 7.045)
+[[32mINFO [m] 2019-03-01 14:09:07.796 [restartedMain] TrackerApplication - Starting TrackerApplication on T-C-RahulP with PID 15704 (/home/thrymr/projects/tracker/target/classes started by thrymr in /home/thrymr/projects/tracker)
+[[36mDEBUG[m] 2019-03-01 14:09:07.797 [restartedMain] TrackerApplication - Running with Spring Boot v2.1.1.RELEASE, Spring v5.1.3.RELEASE
+[[32mINFO [m] 2019-03-01 14:09:07.797 [restartedMain] TrackerApplication - The following profiles are active: dev
+[[36mDEBUG[m] 2019-03-01 14:09:12.308 [restartedMain] AuthenticationFilter - Filter 'authenticationFilter' configured for use
+[[32mINFO [m] 2019-03-01 14:09:12.368 [restartedMain] PdfServiceImpl - resource
+[[32mINFO [m] 2019-03-01 14:09:13.590 [restartedMain] TrackerApplication - Started TrackerApplication in 6.171 seconds (JVM running for 6.998)
+[[32mINFO [m] 2019-03-01 14:14:17.328 [restartedMain] TrackerApplication - Starting TrackerApplication on T-C-RahulP with PID 16002 (/home/thrymr/projects/tracker/target/classes started by thrymr in /home/thrymr/projects/tracker)
+[[36mDEBUG[m] 2019-03-01 14:14:17.330 [restartedMain] TrackerApplication - Running with Spring Boot v2.1.1.RELEASE, Spring v5.1.3.RELEASE
+[[32mINFO [m] 2019-03-01 14:14:17.331 [restartedMain] TrackerApplication - The following profiles are active: dev
+[[36mDEBUG[m] 2019-03-01 14:14:21.671 [restartedMain] AuthenticationFilter - Filter 'authenticationFilter' configured for use
+[[32mINFO [m] 2019-03-01 14:14:21.724 [restartedMain] PdfServiceImpl - resource
+[[32mINFO [m] 2019-03-01 14:14:22.840 [restartedMain] TrackerApplication - Started TrackerApplication in 5.887 seconds (JVM running for 6.724)
+[[32mINFO [m] 2019-03-01 14:18:36.910 [restartedMain] TrackerApplication - Starting TrackerApplication on T-C-RahulP with PID 16274 (/home/thrymr/projects/tracker/target/classes started by thrymr in /home/thrymr/projects/tracker)
+[[36mDEBUG[m] 2019-03-01 14:18:36.915 [restartedMain] TrackerApplication - Running with Spring Boot v2.1.1.RELEASE, Spring v5.1.3.RELEASE
+[[32mINFO [m] 2019-03-01 14:18:36.916 [restartedMain] TrackerApplication - The following profiles are active: dev
+[[36mDEBUG[m] 2019-03-01 14:18:41.533 [restartedMain] AuthenticationFilter - Filter 'authenticationFilter' configured for use
+[[32mINFO [m] 2019-03-01 14:18:41.593 [restartedMain] PdfServiceImpl - resource
+[[32mINFO [m] 2019-03-01 14:18:42.846 [restartedMain] TrackerApplication - Started TrackerApplication in 6.321 seconds (JVM running for 7.19)
+[[32mINFO [m] 2019-03-01 14:22:21.257 [restartedMain] TrackerApplication - Starting TrackerApplication on T-C-RahulP with PID 16636 (/home/thrymr/projects/tracker/target/classes started by thrymr in /home/thrymr/projects/tracker)
+[[36mDEBUG[m] 2019-03-01 14:22:21.258 [restartedMain] TrackerApplication - Running with Spring Boot v2.1.1.RELEASE, Spring v5.1.3.RELEASE
+[[32mINFO [m] 2019-03-01 14:22:21.258 [restartedMain] TrackerApplication - The following profiles are active: dev
+[[36mDEBUG[m] 2019-03-01 14:22:25.957 [restartedMain] AuthenticationFilter - Filter 'authenticationFilter' configured for use
+[[32mINFO [m] 2019-03-01 14:22:26.027 [restartedMain] PdfServiceImpl - resource
+[[32mINFO [m] 2019-03-01 14:22:27.382 [restartedMain] TrackerApplication - Started TrackerApplication in 6.503 seconds (JVM running for 7.327)
+[[32mINFO [m] 2019-03-01 14:28:45.177 [restartedMain] TrackerApplication - Starting TrackerApplication on T-C-RahulP with PID 17116 (/home/thrymr/projects/tracker/target/classes started by thrymr in /home/thrymr/projects/tracker)
+[[36mDEBUG[m] 2019-03-01 14:28:45.178 [restartedMain] TrackerApplication - Running with Spring Boot v2.1.1.RELEASE, Spring v5.1.3.RELEASE
+[[32mINFO [m] 2019-03-01 14:28:45.178 [restartedMain] TrackerApplication - The following profiles are active: dev
+[[36mDEBUG[m] 2019-03-01 14:28:49.895 [restartedMain] AuthenticationFilter - Filter 'authenticationFilter' configured for use
+[[32mINFO [m] 2019-03-01 14:28:49.976 [restartedMain] PdfServiceImpl - resource
+[[32mINFO [m] 2019-03-01 14:28:51.348 [restartedMain] TrackerApplication - Started TrackerApplication in 6.61 seconds (JVM running for 7.334)
+[[32mINFO [m] 2019-03-01 14:31:42.032 [restartedMain] TrackerApplication - Starting TrackerApplication on T-C-RahulP with PID 17401 (/home/thrymr/projects/tracker/target/classes started by thrymr in /home/thrymr/projects/tracker)
+[[36mDEBUG[m] 2019-03-01 14:31:42.032 [restartedMain] TrackerApplication - Running with Spring Boot v2.1.1.RELEASE, Spring v5.1.3.RELEASE
+[[32mINFO [m] 2019-03-01 14:31:42.032 [restartedMain] TrackerApplication - The following profiles are active: dev
+[[36mDEBUG[m] 2019-03-01 14:31:46.128 [restartedMain] AuthenticationFilter - Filter 'authenticationFilter' configured for use
+[[32mINFO [m] 2019-03-01 14:31:46.171 [restartedMain] PdfServiceImpl - resource
+[[32mINFO [m] 2019-03-01 14:31:47.197 [restartedMain] TrackerApplication - Started TrackerApplication in 5.588 seconds (JVM running for 6.337)
+[[32mINFO [m] 2019-03-01 14:37:29.210 [restartedMain] TrackerApplication - Starting TrackerApplication on T-C-RahulP with PID 17831 (/home/thrymr/projects/tracker/target/classes started by thrymr in /home/thrymr/projects/tracker)
+[[36mDEBUG[m] 2019-03-01 14:37:29.210 [restartedMain] TrackerApplication - Running with Spring Boot v2.1.1.RELEASE, Spring v5.1.3.RELEASE
+[[32mINFO [m] 2019-03-01 14:37:29.211 [restartedMain] TrackerApplication - The following profiles are active: dev
+[[36mDEBUG[m] 2019-03-01 14:37:33.139 [restartedMain] AuthenticationFilter - Filter 'authenticationFilter' configured for use
+[[32mINFO [m] 2019-03-01 14:37:33.189 [restartedMain] PdfServiceImpl - resource
+[[32mINFO [m] 2019-03-01 14:37:34.094 [restartedMain] TrackerApplication - Started TrackerApplication in 5.253 seconds (JVM running for 6.011)
+[[32mINFO [m] 2019-03-01 14:38:29.205 [restartedMain] TrackerApplication - Starting TrackerApplication on T-C-RahulP with PID 18002 (/home/thrymr/projects/tracker/target/classes started by thrymr in /home/thrymr/projects/tracker)
+[[36mDEBUG[m] 2019-03-01 14:38:29.206 [restartedMain] TrackerApplication - Running with Spring Boot v2.1.1.RELEASE, Spring v5.1.3.RELEASE
+[[32mINFO [m] 2019-03-01 14:38:29.207 [restartedMain] TrackerApplication - The following profiles are active: dev
+[[32mINFO [m] 2019-03-01 14:39:57.265 [restartedMain] TrackerApplication - Starting TrackerApplication on T-C-RahulP with PID 18211 (/home/thrymr/projects/tracker/target/classes started by thrymr in /home/thrymr/projects/tracker)
+[[36mDEBUG[m] 2019-03-01 14:39:57.266 [restartedMain] TrackerApplication - Running with Spring Boot v2.1.1.RELEASE, Spring v5.1.3.RELEASE
+[[32mINFO [m] 2019-03-01 14:39:57.266 [restartedMain] TrackerApplication - The following profiles are active: dev
+[[36mDEBUG[m] 2019-03-01 14:40:02.368 [restartedMain] AuthenticationFilter - Filter 'authenticationFilter' configured for use
+[[32mINFO [m] 2019-03-01 14:40:02.515 [restartedMain] PdfServiceImpl - resource
+[[32mINFO [m] 2019-03-01 14:40:03.857 [restartedMain] TrackerApplication - Started TrackerApplication in 7.121 seconds (JVM running for 8.366)
+[[32mINFO [m] 2019-03-01 14:53:06.808 [restartedMain] TrackerApplication - Starting TrackerApplication on T-C-RahulP with PID 18877 (/home/thrymr/projects/tracker/target/classes started by thrymr in /home/thrymr/projects/tracker)
+[[36mDEBUG[m] 2019-03-01 14:53:06.809 [restartedMain] TrackerApplication - Running with Spring Boot v2.1.1.RELEASE, Spring v5.1.3.RELEASE
+[[32mINFO [m] 2019-03-01 14:53:06.809 [restartedMain] TrackerApplication - The following profiles are active: dev
+[[36mDEBUG[m] 2019-03-01 14:53:11.891 [restartedMain] AuthenticationFilter - Filter 'authenticationFilter' configured for use
+[[32mINFO [m] 2019-03-01 14:53:11.949 [restartedMain] PdfServiceImpl - resource
+[[32mINFO [m] 2019-03-01 14:53:13.263 [restartedMain] TrackerApplication - Started TrackerApplication in 6.887 seconds (JVM running for 7.757)
+[[32mINFO [m] 2019-03-01 15:01:42.440 [restartedMain] TrackerApplication - Starting TrackerApplication on T-C-RahulP with PID 19341 (/home/thrymr/projects/tracker/target/classes started by thrymr in /home/thrymr/projects/tracker)
+[[36mDEBUG[m] 2019-03-01 15:01:42.442 [restartedMain] TrackerApplication - Running with Spring Boot v2.1.1.RELEASE, Spring v5.1.3.RELEASE
+[[32mINFO [m] 2019-03-01 15:01:42.442 [restartedMain] TrackerApplication - The following profiles are active: dev
+[[36mDEBUG[m] 2019-03-01 15:01:46.827 [restartedMain] AuthenticationFilter - Filter 'authenticationFilter' configured for use
+[[32mINFO [m] 2019-03-01 15:01:46.876 [restartedMain] PdfServiceImpl - resource
+[[32mINFO [m] 2019-03-01 15:01:48.051 [restartedMain] TrackerApplication - Started TrackerApplication in 6.079 seconds (JVM running for 7.011)
+[[32mINFO [m] 2019-03-01 15:29:23.586 [restartedMain] TrackerApplication - Starting TrackerApplication on T-C-RahulP with PID 21167 (/home/thrymr/projects/tracker/target/classes started by thrymr in /home/thrymr/projects/tracker)
+[[36mDEBUG[m] 2019-03-01 15:29:23.587 [restartedMain] TrackerApplication - Running with Spring Boot v2.1.1.RELEASE, Spring v5.1.3.RELEASE
+[[32mINFO [m] 2019-03-01 15:29:23.588 [restartedMain] TrackerApplication - The following profiles are active: dev
+[[32mINFO [m] 2019-03-01 15:29:30.871 [restartedMain] TrackerApplication - Starting TrackerApplication on T-C-RahulP with PID 21196 (/home/thrymr/projects/tracker/target/classes started by thrymr in /home/thrymr/projects/tracker)
+[[36mDEBUG[m] 2019-03-01 15:29:30.872 [restartedMain] TrackerApplication - Running with Spring Boot v2.1.1.RELEASE, Spring v5.1.3.RELEASE
+[[32mINFO [m] 2019-03-01 15:29:30.872 [restartedMain] TrackerApplication - The following profiles are active: dev
+[[32mINFO [m] 2019-03-01 15:31:52.929 [restartedMain] TrackerApplication - Starting TrackerApplication on T-C-RahulP with PID 21423 (/home/thrymr/projects/tracker/target/classes started by thrymr in /home/thrymr/projects/tracker)
+[[36mDEBUG[m] 2019-03-01 15:31:52.930 [restartedMain] TrackerApplication - Running with Spring Boot v2.1.1.RELEASE, Spring v5.1.3.RELEASE
+[[32mINFO [m] 2019-03-01 15:31:52.930 [restartedMain] TrackerApplication - The following profiles are active: dev
+[[36mDEBUG[m] 2019-03-01 15:31:56.806 [restartedMain] AuthenticationFilter - Filter 'authenticationFilter' configured for use
+[[32mINFO [m] 2019-03-01 15:31:56.848 [restartedMain] PdfServiceImpl - resource
+[[32mINFO [m] 2019-03-01 15:31:57.805 [restartedMain] TrackerApplication - Started TrackerApplication in 5.38 seconds (JVM running for 6.225)
+[[32mINFO [m] 2019-03-01 15:56:41.892 [restartedMain] TrackerApplication - Starting TrackerApplication on T-C-RahulP with PID 22355 (/home/thrymr/projects/tracker/target/classes started by thrymr in /home/thrymr/projects/tracker)
+[[36mDEBUG[m] 2019-03-01 15:56:41.893 [restartedMain] TrackerApplication - Running with Spring Boot v2.1.1.RELEASE, Spring v5.1.3.RELEASE
+[[32mINFO [m] 2019-03-01 15:56:41.894 [restartedMain] TrackerApplication - The following profiles are active: dev
+[[36mDEBUG[m] 2019-03-01 15:56:46.676 [restartedMain] AuthenticationFilter - Filter 'authenticationFilter' configured for use
+[[32mINFO [m] 2019-03-01 15:56:46.746 [restartedMain] PdfServiceImpl - resource
+[[32mINFO [m] 2019-03-01 15:56:48.076 [restartedMain] TrackerApplication - Started TrackerApplication in 6.56 seconds (JVM running for 7.438)
+[[32mINFO [m] 2019-03-01 15:57:26.704 [restartedMain] TrackerApplication - Starting TrackerApplication on T-C-RahulP with PID 22497 (/home/thrymr/projects/tracker/target/classes started by thrymr in /home/thrymr/projects/tracker)
+[[36mDEBUG[m] 2019-03-01 15:57:26.711 [restartedMain] TrackerApplication - Running with Spring Boot v2.1.1.RELEASE, Spring v5.1.3.RELEASE
+[[32mINFO [m] 2019-03-01 15:57:26.711 [restartedMain] TrackerApplication - The following profiles are active: dev
+[[36mDEBUG[m] 2019-03-01 15:57:31.367 [restartedMain] AuthenticationFilter - Filter 'authenticationFilter' configured for use
+[[32mINFO [m] 2019-03-01 15:57:31.424 [restartedMain] PdfServiceImpl - resource
+[[32mINFO [m] 2019-03-01 15:57:32.701 [restartedMain] TrackerApplication - Started TrackerApplication in 6.484 seconds (JVM running for 7.388)
+[[32mINFO [m] 2019-03-01 16:08:09.462 [restartedMain] TrackerApplication - Starting TrackerApplication on T-C-RahulP with PID 23124 (/home/thrymr/projects/tracker/target/classes started by thrymr in /home/thrymr/projects/tracker)
+[[36mDEBUG[m] 2019-03-01 16:08:09.469 [restartedMain] TrackerApplication - Running with Spring Boot v2.1.1.RELEASE, Spring v5.1.3.RELEASE
+[[32mINFO [m] 2019-03-01 16:08:09.470 [restartedMain] TrackerApplication - The following profiles are active: dev
+[[36mDEBUG[m] 2019-03-01 16:08:14.188 [restartedMain] AuthenticationFilter - Filter 'authenticationFilter' configured for use
+[[32mINFO [m] 2019-03-01 16:08:14.263 [restartedMain] PdfServiceImpl - resource
+[[32mINFO [m] 2019-03-01 16:08:15.799 [restartedMain] TrackerApplication - Started TrackerApplication in 6.865 seconds (JVM running for 7.749)
+[[32mINFO [m] 2019-03-01 16:32:42.600 [restartedMain] TrackerApplication - Starting TrackerApplication on T-C-RahulP with PID 24168 (/home/thrymr/projects/tracker/target/classes started by thrymr in /home/thrymr/projects/tracker)
+[[36mDEBUG[m] 2019-03-01 16:32:42.602 [restartedMain] TrackerApplication - Running with Spring Boot v2.1.1.RELEASE, Spring v5.1.3.RELEASE
+[[32mINFO [m] 2019-03-01 16:32:42.602 [restartedMain] TrackerApplication - The following profiles are active: dev
+[[36mDEBUG[m] 2019-03-01 16:32:48.380 [restartedMain] AuthenticationFilter - Filter 'authenticationFilter' configured for use
+[[32mINFO [m] 2019-03-01 16:32:48.467 [restartedMain] PdfServiceImpl - resource
+[[32mINFO [m] 2019-03-01 16:32:50.277 [restartedMain] TrackerApplication - Started TrackerApplication in 8.138 seconds (JVM running for 8.978)
+[[32mINFO [m] 2019-03-01 16:37:32.507 [restartedMain] TrackerApplication - Starting TrackerApplication on T-C-RahulP with PID 24525 (/home/thrymr/projects/tracker/target/classes started by thrymr in /home/thrymr/projects/tracker)
+[[36mDEBUG[m] 2019-03-01 16:37:32.508 [restartedMain] TrackerApplication - Running with Spring Boot v2.1.1.RELEASE, Spring v5.1.3.RELEASE
+[[32mINFO [m] 2019-03-01 16:37:32.509 [restartedMain] TrackerApplication - The following profiles are active: dev
+[[36mDEBUG[m] 2019-03-01 16:37:38.794 [restartedMain] AuthenticationFilter - Filter 'authenticationFilter' configured for use
+[[32mINFO [m] 2019-03-01 16:37:38.886 [restartedMain] PdfServiceImpl - resource
+[[32mINFO [m] 2019-03-01 16:37:40.725 [restartedMain] TrackerApplication - Started TrackerApplication in 8.855 seconds (JVM running for 9.984)
+[[32mINFO [m] 2019-03-01 16:49:06.940 [restartedMain] TrackerApplication - Starting TrackerApplication on T-C-RahulP with PID 25237 (/home/thrymr/projects/tracker/target/classes started by thrymr in /home/thrymr/projects/tracker)
+[[36mDEBUG[m] 2019-03-01 16:49:06.940 [restartedMain] TrackerApplication - Running with Spring Boot v2.1.1.RELEASE, Spring v5.1.3.RELEASE
+[[32mINFO [m] 2019-03-01 16:49:06.941 [restartedMain] TrackerApplication - The following profiles are active: dev
+[[36mDEBUG[m] 2019-03-01 16:49:13.194 [restartedMain] AuthenticationFilter - Filter 'authenticationFilter' configured for use
+[[32mINFO [m] 2019-03-01 16:49:13.326 [restartedMain] PdfServiceImpl - resource
+[[32mINFO [m] 2019-03-01 16:49:15.799 [restartedMain] TrackerApplication - Started TrackerApplication in 9.366 seconds (JVM running for 10.3)
+[[32mINFO [m] 2019-03-01 16:50:53.180 [restartedMain] TrackerApplication - Starting TrackerApplication on T-C-RahulP with PID 25440 (/home/thrymr/projects/tracker/target/classes started by thrymr in /home/thrymr/projects/tracker)
+[[36mDEBUG[m] 2019-03-01 16:50:53.180 [restartedMain] TrackerApplication - Running with Spring Boot v2.1.1.RELEASE, Spring v5.1.3.RELEASE
+[[32mINFO [m] 2019-03-01 16:50:53.180 [restartedMain] TrackerApplication - The following profiles are active: dev
+[[36mDEBUG[m] 2019-03-01 16:50:57.673 [restartedMain] AuthenticationFilter - Filter 'authenticationFilter' configured for use
+[[32mINFO [m] 2019-03-01 16:50:57.739 [restartedMain] PdfServiceImpl - resource
+[[32mINFO [m] 2019-03-01 16:50:58.980 [restartedMain] TrackerApplication - Started TrackerApplication in 6.203 seconds (JVM running for 7.254)
+[[32mINFO [m] 2019-03-01 17:24:41.298 [restartedMain] TrackerApplication - Starting TrackerApplication on T-C-RahulP with PID 26606 (/home/thrymr/projects/tracker/target/classes started by thrymr in /home/thrymr/projects/tracker)
+[[36mDEBUG[m] 2019-03-01 17:24:41.299 [restartedMain] TrackerApplication - Running with Spring Boot v2.1.1.RELEASE, Spring v5.1.3.RELEASE
+[[32mINFO [m] 2019-03-01 17:24:41.299 [restartedMain] TrackerApplication - The following profiles are active: dev
+[[36mDEBUG[m] 2019-03-01 17:24:46.554 [restartedMain] AuthenticationFilter - Filter 'authenticationFilter' configured for use
+[[32mINFO [m] 2019-03-01 17:24:46.621 [restartedMain] PdfServiceImpl - resource
+[[32mINFO [m] 2019-03-01 17:24:48.182 [restartedMain] TrackerApplication - Started TrackerApplication in 7.413 seconds (JVM running for 8.301)
+[[32mINFO [m] 2019-03-01 17:43:11.794 [restartedMain] TrackerApplication - Starting TrackerApplication on T-C-RahulP with PID 27741 (/home/thrymr/projects/tracker/target/classes started by thrymr in /home/thrymr/projects/tracker)
+[[36mDEBUG[m] 2019-03-01 17:43:11.796 [restartedMain] TrackerApplication - Running with Spring Boot v2.1.1.RELEASE, Spring v5.1.3.RELEASE
+[[32mINFO [m] 2019-03-01 17:43:11.796 [restartedMain] TrackerApplication - The following profiles are active: dev
+[[36mDEBUG[m] 2019-03-01 17:43:16.564 [restartedMain] AuthenticationFilter - Filter 'authenticationFilter' configured for use
+[[32mINFO [m] 2019-03-01 17:43:16.624 [restartedMain] PdfServiceImpl - resource
+[[32mINFO [m] 2019-03-01 17:43:17.963 [restartedMain] TrackerApplication - Started TrackerApplication in 6.583 seconds (JVM running for 7.334)
+[[32mINFO [m] 2019-03-01 17:44:34.983 [restartedMain] TrackerApplication - Starting TrackerApplication on T-C-RahulP with PID 27919 (/home/thrymr/projects/tracker/target/classes started by thrymr in /home/thrymr/projects/tracker)
+[[36mDEBUG[m] 2019-03-01 17:44:34.983 [restartedMain] TrackerApplication - Running with Spring Boot v2.1.1.RELEASE, Spring v5.1.3.RELEASE
+[[32mINFO [m] 2019-03-01 17:44:34.984 [restartedMain] TrackerApplication - The following profiles are active: dev
+[[36mDEBUG[m] 2019-03-01 17:44:39.183 [restartedMain] AuthenticationFilter - Filter 'authenticationFilter' configured for use
+[[32mINFO [m] 2019-03-01 17:44:39.240 [restartedMain] PdfServiceImpl - resource
+[[32mINFO [m] 2019-03-01 17:44:40.554 [restartedMain] TrackerApplication - Started TrackerApplication in 5.984 seconds (JVM running for 6.721)
+[[32mINFO [m] 2019-03-01 17:46:13.012 [restartedMain] TrackerApplication - Starting TrackerApplication on T-C-RahulP with PID 28110 (/home/thrymr/projects/tracker/target/classes started by thrymr in /home/thrymr/projects/tracker)
+[[36mDEBUG[m] 2019-03-01 17:46:13.013 [restartedMain] TrackerApplication - Running with Spring Boot v2.1.1.RELEASE, Spring v5.1.3.RELEASE
+[[32mINFO [m] 2019-03-01 17:46:13.013 [restartedMain] TrackerApplication - The following profiles are active: dev
+[[36mDEBUG[m] 2019-03-01 17:46:17.374 [restartedMain] AuthenticationFilter - Filter 'authenticationFilter' configured for use
+[[32mINFO [m] 2019-03-01 17:46:17.430 [restartedMain] PdfServiceImpl - resource
+[[32mINFO [m] 2019-03-01 17:46:18.636 [restartedMain] TrackerApplication - Started TrackerApplication in 6.017 seconds (JVM running for 6.732)
+[[32mINFO [m] 2019-03-01 17:46:59.353 [restartedMain] TrackerApplication - Starting TrackerApplication on T-C-RahulP with PID 28244 (/home/thrymr/projects/tracker/target/classes started by thrymr in /home/thrymr/projects/tracker)
+[[36mDEBUG[m] 2019-03-01 17:46:59.354 [restartedMain] TrackerApplication - Running with Spring Boot v2.1.1.RELEASE, Spring v5.1.3.RELEASE
+[[32mINFO [m] 2019-03-01 17:46:59.354 [restartedMain] TrackerApplication - The following profiles are active: dev
+[[36mDEBUG[m] 2019-03-01 17:47:05.134 [restartedMain] AuthenticationFilter - Filter 'authenticationFilter' configured for use
+[[32mINFO [m] 2019-03-01 17:47:05.210 [restartedMain] PdfServiceImpl - resource
+[[32mINFO [m] 2019-03-01 17:47:22.602 [restartedMain] TrackerApplication - Starting TrackerApplication on T-C-RahulP with PID 28330 (/home/thrymr/projects/tracker/target/classes started by thrymr in /home/thrymr/projects/tracker)
+[[36mDEBUG[m] 2019-03-01 17:47:22.602 [restartedMain] TrackerApplication - Running with Spring Boot v2.1.1.RELEASE, Spring v5.1.3.RELEASE
+[[32mINFO [m] 2019-03-01 17:47:22.602 [restartedMain] TrackerApplication - The following profiles are active: dev
+[[36mDEBUG[m] 2019-03-01 17:47:27.752 [restartedMain] AuthenticationFilter - Filter 'authenticationFilter' configured for use
+[[32mINFO [m] 2019-03-01 17:47:27.822 [restartedMain] PdfServiceImpl - resource
+[[32mINFO [m] 2019-03-01 17:49:46.241 [restartedMain] TrackerApplication - Starting TrackerApplication on T-C-RahulP with PID 28468 (/home/thrymr/projects/tracker/target/classes started by thrymr in /home/thrymr/projects/tracker)
+[[36mDEBUG[m] 2019-03-01 17:49:46.242 [restartedMain] TrackerApplication - Running with Spring Boot v2.1.1.RELEASE, Spring v5.1.3.RELEASE
+[[32mINFO [m] 2019-03-01 17:49:46.242 [restartedMain] TrackerApplication - The following profiles are active: dev
+[[36mDEBUG[m] 2019-03-01 17:49:50.962 [restartedMain] AuthenticationFilter - Filter 'authenticationFilter' configured for use
+[[32mINFO [m] 2019-03-01 17:49:51.011 [restartedMain] PdfServiceImpl - resource
+[[32mINFO [m] 2019-03-01 17:49:52.178 [restartedMain] TrackerApplication - Started TrackerApplication in 6.406 seconds (JVM running for 7.257)

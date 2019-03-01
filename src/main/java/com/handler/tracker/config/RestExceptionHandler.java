@@ -20,15 +20,15 @@ public class RestExceptionHandler {
       ((MethodArgumentNotValidException) e).getBindingResult().getAllErrors().forEach(objectError ->  {
         errors.add(objectError.getDefaultMessage());
       });
-      return new ResponseEntity<>(new ApiResponse(HttpStatus.BAD_REQUEST.value(), "", errors), HttpStatus.BAD_REQUEST);
+      return new ResponseEntity<>(new ApiResponse(false, "", errors), HttpStatus.BAD_REQUEST);
     }
 
     if (e instanceof ArithmeticException) {
-      return new ResponseEntity<>(new ApiResponse(HttpStatus.BAD_REQUEST.value(), e.getMessage(), ""), HttpStatus.BAD_REQUEST);
+      return new ResponseEntity<>(new ApiResponse(false, e.getMessage(), ""), HttpStatus.BAD_REQUEST);
     }
 
     if (e instanceof RuntimeException) {
-      return new ResponseEntity<>(new ApiResponse(HttpStatus.BAD_REQUEST.value(), e.getMessage(), ""), HttpStatus.BAD_REQUEST);
+      return new ResponseEntity<>(new ApiResponse(false, e.getMessage(), ""), HttpStatus.BAD_REQUEST);
     }
     return null;
   }
